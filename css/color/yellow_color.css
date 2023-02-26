@@ -1,0 +1,56 @@
+.text-custom, .custom-nav .navbar-nav li a:hover, .custom-nav .navbar-nav li a:active, .custom-nav .navbar-nav li.active a, .custom-nav.stickyadd .navbar-nav li a:hover, .custom-nav.stickyadd .navbar-nav li a:active, .custom-nav.stickyadd .navbar-nav li.active a, .about-social li a:hover {
+    color: #f98712 !important;
+}
+.btn-custom, .vfx-form-group .form-control:focus, .about-social li a:hover {
+    border-color: #f98712;
+}
+.scroll_down i {
+	border: 2px solid #f98712;
+}
+.scroll_down i:after{
+	background: #f98712;
+}
+.services-boxes:hover{
+	background:#f98712;
+	border:5px solid #f98712;
+}
+.text-center .bar, .text-center .bar::before, .section#about .align-items-center .bar, .section#about .align-items-center .bar::before {
+	background: #f98712;
+}
+.custom-btn-item:hover {
+    color: #ffffff;
+    background-color: #f98712;
+    border-color: #f98712;
+}
+.blog_box_area .date {
+    background: #f98712;    
+}
+.app-download-list li a:hover i, .app-download-list li a:hover h5, .app-download-list li a:hover span {
+    color: #f98712;
+}
+.play-icon .play-button a {
+	color: #f98712;
+}
+.content_blog a.more_btn{
+	background:#f98712;
+	border:2px solid #f98712;
+}
+.header-name span.element, .header-name span.simple-text-rotate{
+	color:#f98712;
+}
+.section h2:before, .section#about h2::before{
+	background:#f98712;
+}
+.about_short_contact_wrap ul li a:hover {
+    color: #f98712;
+}
+.content_blog h5 a:hover{
+	color:#f98712 !important;
+}
+.btn-custom, .back_top, .services-boxes .services-title-border, .owl-theme .owl-controls .owl-page span, .work_menu a.active, .work_menu a:hover {
+    background-color: #f98712;
+}
+.btn-custom:hover, .btn-custom:focus, .btn-custom:active, .btn-custom.active, .btn-custom.focus, .btn-custom:active, .btn-custom:focus, .btn-custom:hover, .open > .dropdown-toggle.btn-custom {
+    background-color: #383031;
+    border-color: #383031;
+}
