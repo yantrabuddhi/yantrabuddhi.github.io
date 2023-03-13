@@ -1,2 +1,2 @@
-# yantrabuddhi.github.io
-portfolio
+# YantraBuddhi - Gadget Mind
+Mandeep Singh Bhatia
