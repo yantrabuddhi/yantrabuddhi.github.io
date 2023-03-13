@@ -1,2 +1,4 @@
-# YantraBuddhi - Gadget Mind
-Mandeep Singh Bhatia
+# AI in Embedded Systems
+By Mandeep Singh Bhatia
+
+
